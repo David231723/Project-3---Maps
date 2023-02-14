@@ -1,7 +1,7 @@
 # **Project 3 -> GeoSpatial Data Project (Looking for a new office)**
 
 
-![This is an image](images/theoffice.png)
+![This is an image](Images/theoffice.png)
 
 The goal of this project is looking for a new venue for a our gaming company. In order to choose the location. we have to take into account the following;
 
